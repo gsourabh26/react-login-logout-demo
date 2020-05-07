@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/react-login-logout-demo/static/css/main.8ed21683.chunk.css",
+    "main.js": "/react-login-logout-demo/static/js/main.b77383ca.chunk.js",
+    "main.js.map": "/react-login-logout-demo/static/js/main.b77383ca.chunk.js.map",
+    "runtime-main.js": "/react-login-logout-demo/static/js/runtime-main.35996a00.js",
+    "runtime-main.js.map": "/react-login-logout-demo/static/js/runtime-main.35996a00.js.map",
+    "static/js/2.72f574d9.chunk.js": "/react-login-logout-demo/static/js/2.72f574d9.chunk.js",
+    "static/js/2.72f574d9.chunk.js.map": "/react-login-logout-demo/static/js/2.72f574d9.chunk.js.map",
+    "index.html": "/react-login-logout-demo/index.html",
+    "precache-manifest.9f4a0f90d28f223bb468080e865f2d8e.js": "/react-login-logout-demo/precache-manifest.9f4a0f90d28f223bb468080e865f2d8e.js",
+    "service-worker.js": "/react-login-logout-demo/service-worker.js",
+    "static/css/main.8ed21683.chunk.css.map": "/react-login-logout-demo/static/css/main.8ed21683.chunk.css.map",
+    "static/js/2.72f574d9.chunk.js.LICENSE.txt": "/react-login-logout-demo/static/js/2.72f574d9.chunk.js.LICENSE.txt",
+    "static/media/Alaskan Malamute.webp": "/react-login-logout-demo/static/media/Alaskan Malamute.ae941680.webp",
+    "static/media/American Bobtail.webp": "/react-login-logout-demo/static/media/American Bobtail.ebd3232e.webp",
+    "static/media/American Eskimo.webp": "/react-login-logout-demo/static/media/American Eskimo.6a135753.webp",
+    "static/media/Australian Terrier.webp": "/react-login-logout-demo/static/media/Australian Terrier.a4fc0e76.webp",
+    "static/media/Bearded Collie.webp": "/react-login-logout-demo/static/media/Bearded Collie.e6d7a15f.webp",
+    "static/media/Birman Cat.webp": "/react-login-logout-demo/static/media/Birman Cat.f953a16f.webp",
+    "static/media/Chihuahua.webp": "/react-login-logout-demo/static/media/Chihuahua.f9f5d0f0.webp",
+    "static/media/Exotic Shorthair.webp": "/react-login-logout-demo/static/media/Exotic Shorthair.eb09c834.webp",
+    "static/media/Toyger.webp": "/react-login-logout-demo/static/media/Toyger.e355f974.webp",
+    "static/media/chartreux.webp": "/react-login-logout-demo/static/media/chartreux.4931c275.webp",
+    "static/media/tech1.jpg": "/react-login-logout-demo/static/media/tech1.6813e660.jpg",
+    "static/media/tech10.jpg": "/react-login-logout-demo/static/media/tech10.14581727.jpg",
+    "static/media/tech11.jpg": "/react-login-logout-demo/static/media/tech11.ee73e568.jpg",
+    "static/media/tech12.jpg": "/react-login-logout-demo/static/media/tech12.ea1db0ec.jpg",
+    "static/media/tech2.jpg": "/react-login-logout-demo/static/media/tech2.59fea0f9.jpg",
+    "static/media/tech3.jpg": "/react-login-logout-demo/static/media/tech3.73cdffc1.jpg",
+    "static/media/tech4.jpg": "/react-login-logout-demo/static/media/tech4.79652cbb.jpg",
+    "static/media/tech5.jpg": "/react-login-logout-demo/static/media/tech5.ef1a9363.jpg",
+    "static/media/tech6.jpg": "/react-login-logout-demo/static/media/tech6.4db08bf0.jpg",
+    "static/media/tech7.jpg": "/react-login-logout-demo/static/media/tech7.95a0bc4e.jpg",
+    "static/media/tech9.jpg": "/react-login-logout-demo/static/media/tech9.e1942377.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35996a00.js",
+    "static/js/2.72f574d9.chunk.js",
+    "static/css/main.8ed21683.chunk.css",
+    "static/js/main.b77383ca.chunk.js"
+  ]
+}
